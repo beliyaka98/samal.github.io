@@ -231,7 +231,7 @@ const animationTimeline = () => {
         "party"
     )
     .from(
-        ".wish h6",
+        ".wish p",
         0.5, {
             opacity: 0,
             y: 10,
